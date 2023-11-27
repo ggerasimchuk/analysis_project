@@ -1,2 +1,2 @@
-# some_analisys
-jupyter notebook with some pandas, statistics and product analysis
+# analysis project
+jupyter notebook with pandas, statistics and product analysis
